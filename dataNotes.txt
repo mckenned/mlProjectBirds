@@ -1,0 +1,9 @@
+Species of interest:
+
+Phylloscopus collybita (mosquetero común)- Large data volume (~500000), present EVERYWHERE.
+Turdus merula (mirlo)- Medium data volume, also present everywhere
+Turdus philomelos (zorzal) - Only present in winter
+Merops apiaster (aberuja) - Only present in summer
+Marmaronetta angustirostris - endangered species
+
+-> would be cool to pick another species that really only migrates through...

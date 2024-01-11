@@ -1,0 +1,4 @@
+Tasks
+
+1. Visualize dates, count, and locations of each species (Phylloscopus collybita,Turdus merula, Turdus philomelos,Merops apiaster,Marmaronetta angustirostris)
+2. Create a heatmap of the species (ideally one that changes over time)
